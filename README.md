@@ -1,6 +1,5 @@
 # Hello there 👋
 
-
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ```
 #!/usr/bin/python
@@ -19,9 +18,8 @@ class SoftwareDeveloper:
 
 
 me = SoftwareDeveloper()
-me.say_hi()
+me.say_hi() 
 ```
-
 📝 Blogs
 --
 - Personal website and blog: https://wo-jan.github.io/

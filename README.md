@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
 ## 🔧 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,firebase,docker,python,linux,git,github,javascript,django,anaconda,nodejs,bash,neovim,postman,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,firebase,docker,python,linux,git,github,javascript,django,anaconda,nodejs,bash,neovim)](https://skillicons.dev)
 
 
 ## 🧠 Personal Philosophy

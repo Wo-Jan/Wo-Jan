@@ -1,70 +1,86 @@
-# Hello there 👋
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=wo-jan.wo-jan)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+## Hello there 👋
 ```python
-#!/usr/bin/python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
 class SoftwareDeveloper:
-
     def __init__(self):
         self.name = "Wo Jan"
-        self.role = "Software Developer"
+        self.languages = ["Python", "TypeScript", "JavaScript", "Bash"]
+        self.shell = "zsh"
+        self.os = ["Arch Linux 🐧", "macOS 🍎"]
+        self.editors = ["Neovim", "VSCode"]
+        self.interests = [
+            "UNIX Philosophy",
+            "Cybersecurity",
+            "Task Automation",
+            "DevOps & CI/CD",
+            "CLI Tools",
+            "Elegant Simplicity"
+        ]
+        self.tools = [
+            "Docker", "Git", "AWS", "Firebase",
+            "LaTeX", "Postman", "tmux", "SSH", "Markdown"
+        ]
         self.language_spoken = ["en_US", "es_ES"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for stopping by. ❤️")
 
-
-me = SoftwareDeveloper()
-me.say_hi() 
+if __name__ == "__main__":
+    me = SoftwareDeveloper()
+    me.say_hi()
 ```
 
-## 📝 Blogs
 
-- Personal website and blog: https://wo-jan.github.io/
-
-## 🔧 Technologies & Tools
-
-**Frameworks:**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-
-**Programming languages:**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-**Tools and Services:**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+> *"Do one thing and do it well."* – UNIX Philosophy  
+> *"Talk is cheap. Show me the code."* – Linus Torvalds
 
 
-**OS:**
+## 🌱 Currently Learning
 
+- Distributed Systems
+- Offensive & Defensive Security (Red & Blue Team)
+- Infrastructure as Code (IaC) with Terraform
+- Mastering tools like `tmux`, `htop`, `nmap`, `tcpdump`, `fzf`, `ripgrep`, and more
+
+
+## 🔧 Technologies
+
+**Languages & Runtimes**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools & Utilities**  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+**Operating Systems**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
+## 🧠 Personal Philosophy
 
-## 🏆 Github Trophies 
+- I prefer to build useful things, not just pretty ones.
+- I don’t like reinventing the wheel — unless I can make it spin faster.
+- Less frameworks, more understanding.
+- Sometimes all I need is a terminal and a cup of coffee ☕.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=condorcoders&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📡 Did you know you can run this in your terminal?
+
+```bash
+curl -s https://raw.githubusercontent.com/wo-jan/wo-jan/main/whoami.py | python3
+```

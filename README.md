@@ -6,7 +6,7 @@
 class SoftwareDeveloper:
     def __init__(self):
         self.name = "Wo Jan"
-        self.languages = ["Python", "TypeScript", "JavaScript", "Bash"]
+        self.languages = ["Python", "JavaScript", "Bash"]
         self.shell = "zsh"
         self.os = ["Arch Linux 🐧", "macOS 🍎"]
         self.editors = ["Neovim", "VSCode"]
@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
 ## 🔧 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,firebase,docker,python,linux,git,github,javascript,nodejs,bash,neovim,postman,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,firebase,docker,python,linux,git,github,javascript,django,anaconda,nodejs,bash,neovim,postman,latex)](https://skillicons.dev)
 
 
 ## 🧠 Personal Philosophy

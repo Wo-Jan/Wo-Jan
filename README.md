@@ -11,7 +11,6 @@ class SoftwareDeveloper:
         self.os = ["Arch Linux 🐧", "macOS 🍎"]
         self.editors = ["Neovim", "VSCode"]
         self.interests = [
-            "UNIX Philosophy",
             "Cybersecurity",
             "Task Automation",
             "DevOps & CI/CD",
@@ -19,7 +18,7 @@ class SoftwareDeveloper:
             "Elegant Simplicity"
         ]
         self.tools = [
-            "Docker", "Git", "AWS", "Firebase",
+            "AWS", "Firebase", "Docker", "Git", "Github",
             "LaTeX", "Postman", "tmux", "SSH", "Markdown"
         ]
         self.language_spoken = ["en_US", "es_ES"]
@@ -47,7 +46,7 @@ if __name__ == "__main__":
 
 ## 🔧 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,firebase,docker,python,linux,git,github,javascript,django,anaconda,nodejs,bash,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,firebase,docker,python,linux,git,github,javascript,django,anaconda,nodejs,bash,redhat,neovim)](https://skillicons.dev)
 
 
 ## 🧠 Personal Philosophy

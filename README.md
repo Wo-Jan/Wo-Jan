@@ -7,7 +7,6 @@ class SoftwareDeveloper:
     def __init__(self):
         self.name = "Wo Jan"
         self.languages = ["Python", "JavaScript", "Bash"]
-        self.shell = "zsh"
         self.os = ["Arch Linux 🐧", "macOS 🍎"]
         self.editors = ["Neovim", "VSCode"]
         self.interests = [
@@ -41,12 +40,12 @@ if __name__ == "__main__":
 - Distributed Systems
 - Offensive & Defensive Security (Red & Blue Team)
 - Infrastructure as Code (IaC) with Terraform
-- Mastering tools like `tmux`, `htop`, `nmap`, `tcpdump`, `fzf`, `ripgrep`, and more
+- Mastering tools like `tmux`, `nmap`, `tcpdump`, `fzf`, `ripgrep`, and more
 
 
 ## 🔧 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,firebase,docker,python,linux,git,github,javascript,django,anaconda,nodejs,bash,redhat,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,firebase,docker,python,linux,git,github,javascript,django,nodejs,bash,redhat,neovim)](https://skillicons.dev)
 
 
 ## 🧠 Personal Philosophy
